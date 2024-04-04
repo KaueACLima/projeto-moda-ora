@@ -26,7 +26,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: (https://github.com/KaueACLima/projeto-gta)
+- URL da solução: (https://github.com/KaueACLima/projeto-moda-ora)
 - URL do site ativo: (https://kaueaclima.github.io/projeto-gta//)
 
 
@@ -34,7 +34,6 @@ Os usuários devem ser capazes de:
 
 - Marcação HTML5 semântica
 - Propriedades personalizadas CSS
-- JavaScript
 
 ### Autor
 
