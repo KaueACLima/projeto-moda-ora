@@ -100,11 +100,7 @@ h2 {
 
 .container-texto-informacao {
   color: #ffffff;
-<<<<<<< HEAD
-  background-image: url("/assets/img/bg_detalhe.png");
-=======
-  background-image: url("img/bg_detalhe.png");
->>>>>>> d12ac34f90a9c0b05b3c31249955bbaab7fbc4c5
+  background-image: url(../img/bg_detalhe.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
