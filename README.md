@@ -27,7 +27,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da solução: (https://github.com/KaueACLima/projeto-moda-ora)
-- URL do site ativo: (https://kaueaclima.github.io/projeto-gta//)
+- URL do site ativo: (https://kaueaclima.github.io/projeto-moda-ora/)
 
 
 ### Construído com
